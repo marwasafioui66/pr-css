@@ -1,0 +1,112 @@
+html{
+    color: azure;
+    background-color: #252038;
+}
+
+
+.home{
+    background-color:#1f2235;
+    font-family: roboto;
+    
+}
+.about, .table{
+    background-color:  #302656;
+}
+
+span{
+    color: pink;
+}
+
+ul{
+    display: flex;
+    padding-left: 40%;
+    font-size: 30px;
+
+
+ 
+} 
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+nav{
+    background-color:  #171327 ;
+} 
+
+nav h2{
+    display: inline;
+}
+
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-right: 12px;
+}
+table{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.content .container-texts a{
+border: rgb(197, 42, 68) solid;
+}
+.about .container-texts{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+.about .container-texts h5{
+    color: rgb(224, 15, 50);
+    font-size: 18px;
+}
+.about .container-texts h1{
+    font-size: 2rem;
+}
+.content .container-texts{
+    font-size: 20px;
+}
+.container-texts h1{
+    font-size: 1rem;
+}  
+.box{
+    display: inline-flex;
+    padding: 15px;
+    margin: 10px;
+    font-weight: 700;
+}
+
+.social{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #23263a;;
+}
+.container-texts{
+    background-color:#1f2235; 
+   
+}
+.table{
+    background-color:#1f2235 ;
+}
+.content{
+    background-color: #23263a;;
+}
+
+
+textarea{
+    background-color: pink;
+    margin-left: 30%;
+    display: flex;
+}
+#tb{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+#cd{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.table table th, .table table td{
+    background-color: #23263a;
+}
